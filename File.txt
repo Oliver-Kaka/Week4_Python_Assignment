@@ -1,0 +1,2 @@
+Hello there, this is the original file. 
+It is to be modified to uppercase and stored in the file named newFile.pdf
